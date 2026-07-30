@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
