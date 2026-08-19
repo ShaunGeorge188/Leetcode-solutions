@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
