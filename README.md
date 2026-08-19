@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -220,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
