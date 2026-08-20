@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
