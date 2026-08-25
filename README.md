@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
