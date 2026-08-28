@@ -4,7 +4,7 @@ public:
         unordered_set<int> seen;
 
         for(int num : nums){
-            if(seen.count(num) > 0){
+            if(seen.find(num) != seen.end()){
                 return true;
             }
 
