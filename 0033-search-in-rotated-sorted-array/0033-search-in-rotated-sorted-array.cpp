@@ -1,7 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        // Set the search space to entire array
+    
         int low = 0;
         int high = nums.size() - 1;
 
