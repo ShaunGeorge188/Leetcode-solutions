@@ -19,7 +19,7 @@ public:
     }
     
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        std::vector<std::vector<int>> res;
+        vector<vector<int>> res;
         dfs(root, 0, res);
         
         reverse(res.begin(), res.end());
