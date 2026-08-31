@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
