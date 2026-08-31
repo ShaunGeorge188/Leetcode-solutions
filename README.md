@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
