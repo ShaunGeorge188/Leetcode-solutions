@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0938-range-sum-of-bst](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [3310-remove-methods-from-project](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -399,11 +401,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Lifting
 |  |
 | ------- |
