@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
