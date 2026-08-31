@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2579-count-total-number-of-colored-cells](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
