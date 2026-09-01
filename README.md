@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0400-nth-digit](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0400-nth-digit) |
@@ -443,5 +445,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
