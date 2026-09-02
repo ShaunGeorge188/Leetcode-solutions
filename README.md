@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2241-design-an-atm-machine) |
+| [2591-distribute-money-to-maximum-children](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
+| [2591-distribute-money-to-maximum-children](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
