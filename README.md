@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
