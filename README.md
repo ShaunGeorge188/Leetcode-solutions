@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
