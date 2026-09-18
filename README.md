@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
