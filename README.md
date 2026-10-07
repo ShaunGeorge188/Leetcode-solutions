@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
