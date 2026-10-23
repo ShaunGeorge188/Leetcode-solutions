@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2810-faulty-keyboard](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
