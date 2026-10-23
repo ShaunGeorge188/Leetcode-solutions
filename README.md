@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2784-check-if-array-is-good](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
