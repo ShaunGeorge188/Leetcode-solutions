@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0748-shortest-completing-word](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0748-shortest-completing-word](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0856-score-of-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
