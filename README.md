@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2591-distribute-money-to-maximum-children) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2810-faulty-keyboard](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
