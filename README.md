@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1096-brace-expansion-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1169-invalid-transactions](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1169-invalid-transactions) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2784-check-if-array-is-good](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0948-bag-of-tokens](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
