@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -504,12 +505,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ternary Search
 |  |
 | ------- |
@@ -733,4 +738,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
