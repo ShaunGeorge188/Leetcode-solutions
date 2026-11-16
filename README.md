@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShaunGeorge188/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
